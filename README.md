@@ -14,9 +14,11 @@ TypeScript
 
 After Installation:
 Navigate to the project folder:
-cd countdown-happynewyear
-npm install
-npm  run dev
+  cd countdown-happynewyear
+  
+  npm install
+  
+  npm  run dev
 
 
 Usage
